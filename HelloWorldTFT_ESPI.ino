@@ -1,4 +1,5 @@
 // REMEMBER TO EDIT THE user_setup.h library to show these values for the ESP32:
+
 // Uncomment #define GC9A01_DRIVER as the display type
 //
 // set display size to 
