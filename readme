@@ -1,0 +1,6 @@
+To get this to work, you need
+
+1.28" TFT display of 240 x 240 pixels
+tft_eSPI library by Bodmer
+ESP32
+
